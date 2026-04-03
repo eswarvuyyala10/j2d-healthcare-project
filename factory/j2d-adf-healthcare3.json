@@ -1,0 +1,9 @@
+{
+	"name": "j2d-adf-healthcare3",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90d517a1-aad7-4978-a1b2-9c3347548b19",
+		"tenantId": "ff88f911-26e8-4a75-b0b8-56c95b3b3e30"
+	}
+}
